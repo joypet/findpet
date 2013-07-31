@@ -1,4 +1,4 @@
 findpet
 =======
 
-find your pet home
+Help you finding your lost pets
